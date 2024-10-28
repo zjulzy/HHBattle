@@ -1,0 +1,3467 @@
+fileFormatVersion: 2
+guid: fce59bc37b8d7564499ab7dfb5d20945
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3826818226075406444
+    second: Hip Hop Dancing (1)_export_mixamocom_0
+  - first:
+      213: 2473792530381393494
+    second: Hip Hop Dancing (1)_export_mixamocom_1
+  - first:
+      213: 208961891031568130
+    second: Hip Hop Dancing (1)_export_mixamocom_2
+  - first:
+      213: -165381177886477702
+    second: Hip Hop Dancing (1)_export_mixamocom_3
+  - first:
+      213: 2668562072829357552
+    second: Hip Hop Dancing (1)_export_mixamocom_4
+  - first:
+      213: -335355111493757754
+    second: Hip Hop Dancing (1)_export_mixamocom_5
+  - first:
+      213: -8472435066605920576
+    second: Hip Hop Dancing (1)_export_mixamocom_6
+  - first:
+      213: 5741003658426145059
+    second: Hip Hop Dancing (1)_export_mixamocom_7
+  - first:
+      213: -8281623296043355882
+    second: Hip Hop Dancing (1)_export_mixamocom_8
+  - first:
+      213: 7192245935687288338
+    second: Hip Hop Dancing (1)_export_mixamocom_9
+  - first:
+      213: -8143373408217084068
+    second: Hip Hop Dancing (1)_export_mixamocom_10
+  - first:
+      213: -1924936202015153864
+    second: Hip Hop Dancing (1)_export_mixamocom_11
+  - first:
+      213: 1905272452698026985
+    second: Hip Hop Dancing (1)_export_mixamocom_12
+  - first:
+      213: 614625313234527630
+    second: Hip Hop Dancing (1)_export_mixamocom_13
+  - first:
+      213: 3416106756375526220
+    second: Hip Hop Dancing (1)_export_mixamocom_14
+  - first:
+      213: 7756784293174075261
+    second: Hip Hop Dancing (1)_export_mixamocom_15
+  - first:
+      213: -4669501026485969325
+    second: Hip Hop Dancing (1)_export_mixamocom_16
+  - first:
+      213: 9169239897119525097
+    second: Hip Hop Dancing (1)_export_mixamocom_17
+  - first:
+      213: -5623104386388069628
+    second: Hip Hop Dancing (1)_export_mixamocom_18
+  - first:
+      213: -8828668077451674165
+    second: Hip Hop Dancing (1)_export_mixamocom_19
+  - first:
+      213: -5715037528120726382
+    second: Hip Hop Dancing (1)_export_mixamocom_20
+  - first:
+      213: 8456093830756908399
+    second: Hip Hop Dancing (1)_export_mixamocom_21
+  - first:
+      213: -1619929196802572902
+    second: Hip Hop Dancing (1)_export_mixamocom_22
+  - first:
+      213: -8263795671607286900
+    second: Hip Hop Dancing (1)_export_mixamocom_23
+  - first:
+      213: 4391749840772157453
+    second: Hip Hop Dancing (1)_export_mixamocom_24
+  - first:
+      213: 7182925069070653675
+    second: Hip Hop Dancing (1)_export_mixamocom_25
+  - first:
+      213: -5351901809118077032
+    second: Hip Hop Dancing (1)_export_mixamocom_26
+  - first:
+      213: -4609923179714679200
+    second: Hip Hop Dancing (1)_export_mixamocom_27
+  - first:
+      213: 1428136799736523730
+    second: Hip Hop Dancing (1)_export_mixamocom_28
+  - first:
+      213: 893250536813539999
+    second: Hip Hop Dancing (1)_export_mixamocom_29
+  - first:
+      213: -5650659499043367289
+    second: Hip Hop Dancing (1)_export_mixamocom_30
+  - first:
+      213: 2414082741215754891
+    second: Hip Hop Dancing (1)_export_mixamocom_31
+  - first:
+      213: 5082288632272233322
+    second: Hip Hop Dancing (1)_export_mixamocom_32
+  - first:
+      213: 350408328068137321
+    second: Hip Hop Dancing (1)_export_mixamocom_33
+  - first:
+      213: 7321659686426671062
+    second: Hip Hop Dancing (1)_export_mixamocom_34
+  - first:
+      213: -7440697214936476027
+    second: Hip Hop Dancing (1)_export_mixamocom_35
+  - first:
+      213: 2494197572340284278
+    second: Hip Hop Dancing (1)_export_mixamocom_36
+  - first:
+      213: 2458676529670456762
+    second: Hip Hop Dancing (1)_export_mixamocom_37
+  - first:
+      213: 9170227875242673265
+    second: Hip Hop Dancing (1)_export_mixamocom_38
+  - first:
+      213: -811094318878707834
+    second: Hip Hop Dancing (1)_export_mixamocom_39
+  - first:
+      213: 23811263627200877
+    second: Hip Hop Dancing (1)_export_mixamocom_40
+  - first:
+      213: -8236221513947049757
+    second: Hip Hop Dancing (1)_export_mixamocom_41
+  - first:
+      213: 3790033480886220926
+    second: Hip Hop Dancing (1)_export_mixamocom_42
+  - first:
+      213: 6339399315253970375
+    second: Hip Hop Dancing (1)_export_mixamocom_43
+  - first:
+      213: 3031533883533584551
+    second: Hip Hop Dancing (1)_export_mixamocom_44
+  - first:
+      213: -7253170367532179870
+    second: Hip Hop Dancing (1)_export_mixamocom_45
+  - first:
+      213: -1921484911959042536
+    second: Hip Hop Dancing (1)_export_mixamocom_46
+  - first:
+      213: 5519694341607832799
+    second: Hip Hop Dancing (1)_export_mixamocom_47
+  - first:
+      213: -4014466969292634015
+    second: Hip Hop Dancing (1)_export_mixamocom_48
+  - first:
+      213: -5273643097859214428
+    second: Hip Hop Dancing (1)_export_mixamocom_49
+  - first:
+      213: -8608112438099947184
+    second: Hip Hop Dancing (1)_export_mixamocom_50
+  - first:
+      213: -4514988366514517976
+    second: Hip Hop Dancing (1)_export_mixamocom_51
+  - first:
+      213: -1882148445694221397
+    second: Hip Hop Dancing (1)_export_mixamocom_52
+  - first:
+      213: -3168172236375852917
+    second: Hip Hop Dancing (1)_export_mixamocom_53
+  - first:
+      213: -3747066159851417241
+    second: Hip Hop Dancing (1)_export_mixamocom_54
+  - first:
+      213: 2833624371361595501
+    second: Hip Hop Dancing (1)_export_mixamocom_55
+  - first:
+      213: -3844506872869349279
+    second: Hip Hop Dancing (1)_export_mixamocom_56
+  - first:
+      213: -8641551117685173199
+    second: Hip Hop Dancing (1)_export_mixamocom_57
+  - first:
+      213: 3793423295594637870
+    second: Hip Hop Dancing (1)_export_mixamocom_58
+  - first:
+      213: 6044496774533288443
+    second: Hip Hop Dancing (1)_export_mixamocom_59
+  - first:
+      213: -8820167534329398059
+    second: Hip Hop Dancing (1)_export_mixamocom_60
+  - first:
+      213: -1584733275559428287
+    second: Hip Hop Dancing (1)_export_mixamocom_61
+  - first:
+      213: -5344145024348249725
+    second: Hip Hop Dancing (1)_export_mixamocom_62
+  - first:
+      213: 1028122777105350176
+    second: Hip Hop Dancing (1)_export_mixamocom_63
+  - first:
+      213: -26774183242791557
+    second: Hip Hop Dancing (1)_export_mixamocom_64
+  - first:
+      213: 8285271891422599008
+    second: Hip Hop Dancing (1)_export_mixamocom_65
+  - first:
+      213: 4525699767030411316
+    second: Hip Hop Dancing (1)_export_mixamocom_66
+  - first:
+      213: 2534653766261633641
+    second: Hip Hop Dancing (1)_export_mixamocom_67
+  - first:
+      213: 1046025084768250492
+    second: Hip Hop Dancing (1)_export_mixamocom_68
+  - first:
+      213: 6739288709908826714
+    second: Hip Hop Dancing (1)_export_mixamocom_69
+  - first:
+      213: -8511969086838864353
+    second: Hip Hop Dancing (1)_export_mixamocom_70
+  - first:
+      213: -404139392147769855
+    second: Hip Hop Dancing (1)_export_mixamocom_71
+  - first:
+      213: -3936239877354144163
+    second: Hip Hop Dancing (1)_export_mixamocom_72
+  - first:
+      213: -8465712791737069063
+    second: Hip Hop Dancing (1)_export_mixamocom_73
+  - first:
+      213: -7745775520834512648
+    second: Hip Hop Dancing (1)_export_mixamocom_74
+  - first:
+      213: -5209624385717431314
+    second: Hip Hop Dancing (1)_export_mixamocom_75
+  - first:
+      213: -4095074999746918880
+    second: Hip Hop Dancing (1)_export_mixamocom_76
+  - first:
+      213: 4673128635307796806
+    second: Hip Hop Dancing (1)_export_mixamocom_77
+  - first:
+      213: 4758648566997177262
+    second: Hip Hop Dancing (1)_export_mixamocom_78
+  - first:
+      213: 5093495731908878781
+    second: Hip Hop Dancing (1)_export_mixamocom_79
+  - first:
+      213: 6477041050019805318
+    second: Hip Hop Dancing (1)_export_mixamocom_80
+  - first:
+      213: -393506602382999839
+    second: Hip Hop Dancing (1)_export_mixamocom_81
+  - first:
+      213: 4597013447041344983
+    second: Hip Hop Dancing (1)_export_mixamocom_82
+  - first:
+      213: -6630392115200189442
+    second: Hip Hop Dancing (1)_export_mixamocom_83
+  - first:
+      213: 163109821910464164
+    second: Hip Hop Dancing (1)_export_mixamocom_84
+  - first:
+      213: -3068632101166144071
+    second: Hip Hop Dancing (1)_export_mixamocom_85
+  - first:
+      213: -7809157325266704969
+    second: Hip Hop Dancing (1)_export_mixamocom_86
+  - first:
+      213: -7789072464694719043
+    second: Hip Hop Dancing (1)_export_mixamocom_87
+  - first:
+      213: 6273841167107491698
+    second: Hip Hop Dancing (1)_export_mixamocom_88
+  - first:
+      213: -4221900586936146804
+    second: Hip Hop Dancing (1)_export_mixamocom_89
+  - first:
+      213: -7785567320122260182
+    second: Hip Hop Dancing (1)_export_mixamocom_90
+  - first:
+      213: 6053129068536273567
+    second: Hip Hop Dancing (1)_export_mixamocom_91
+  - first:
+      213: -2161864831750659196
+    second: Hip Hop Dancing (1)_export_mixamocom_92
+  - first:
+      213: -7811909751910969979
+    second: Hip Hop Dancing (1)_export_mixamocom_93
+  - first:
+      213: 6008230244980161859
+    second: Hip Hop Dancing (1)_export_mixamocom_94
+  - first:
+      213: 5826428273100253853
+    second: Hip Hop Dancing (1)_export_mixamocom_95
+  - first:
+      213: -6312272655807289575
+    second: Hip Hop Dancing (1)_export_mixamocom_96
+  - first:
+      213: -1740514900308290777
+    second: Hip Hop Dancing (1)_export_mixamocom_97
+  - first:
+      213: -4692519961316360899
+    second: Hip Hop Dancing (1)_export_mixamocom_98
+  - first:
+      213: -7488351644705047540
+    second: Hip Hop Dancing (1)_export_mixamocom_99
+  - first:
+      213: 525937082707439359
+    second: Hip Hop Dancing (1)_export_mixamocom_100
+  - first:
+      213: -602279086781021971
+    second: Hip Hop Dancing (1)_export_mixamocom_101
+  - first:
+      213: 769219758595104742
+    second: Hip Hop Dancing (1)_export_mixamocom_102
+  - first:
+      213: -7693893811960732594
+    second: Hip Hop Dancing (1)_export_mixamocom_103
+  - first:
+      213: -6904473488523243934
+    second: Hip Hop Dancing (1)_export_mixamocom_104
+  - first:
+      213: -5619793938986747079
+    second: Hip Hop Dancing (1)_export_mixamocom_105
+  - first:
+      213: 4995685464286824698
+    second: Hip Hop Dancing (1)_export_mixamocom_106
+  - first:
+      213: -2658950619288363152
+    second: Hip Hop Dancing (1)_export_mixamocom_107
+  - first:
+      213: 5797700547426308725
+    second: Hip Hop Dancing (1)_export_mixamocom_108
+  - first:
+      213: 8512130242585291923
+    second: Hip Hop Dancing (1)_export_mixamocom_109
+  - first:
+      213: -1374408829314566174
+    second: Hip Hop Dancing (1)_export_mixamocom_110
+  - first:
+      213: -1636827027186636483
+    second: Hip Hop Dancing (1)_export_mixamocom_111
+  - first:
+      213: -2456713866202648347
+    second: Hip Hop Dancing (1)_export_mixamocom_112
+  - first:
+      213: -8925377563557791485
+    second: Hip Hop Dancing (1)_export_mixamocom_113
+  - first:
+      213: -1393866257586195602
+    second: Hip Hop Dancing (1)_export_mixamocom_114
+  - first:
+      213: 7114446348877929680
+    second: Hip Hop Dancing (1)_export_mixamocom_115
+  - first:
+      213: -778921400260433785
+    second: Hip Hop Dancing (1)_export_mixamocom_116
+  - first:
+      213: 3374161782804573402
+    second: Hip Hop Dancing (1)_export_mixamocom_117
+  - first:
+      213: -2384379953881563490
+    second: Hip Hop Dancing (1)_export_mixamocom_118
+  - first:
+      213: -2649133720960240750
+    second: Hip Hop Dancing (1)_export_mixamocom_119
+  - first:
+      213: -8608008334582653789
+    second: Hip Hop Dancing (1)_export_mixamocom_120
+  - first:
+      213: 5070800166491410754
+    second: Hip Hop Dancing (1)_export_mixamocom_121
+  - first:
+      213: 4621241024590108248
+    second: Hip Hop Dancing (1)_export_mixamocom_122
+  - first:
+      213: -1983829182127638273
+    second: Hip Hop Dancing (1)_export_mixamocom_123
+  - first:
+      213: -7645118305179881582
+    second: Hip Hop Dancing (1)_export_mixamocom_124
+  - first:
+      213: 4642043700511882046
+    second: Hip Hop Dancing (1)_export_mixamocom_125
+  - first:
+      213: 991934249947491889
+    second: Hip Hop Dancing (1)_export_mixamocom_126
+  - first:
+      213: -4137367017828251319
+    second: Hip Hop Dancing (1)_export_mixamocom_127
+  - first:
+      213: -3130050555163490763
+    second: Hip Hop Dancing (1)_export_mixamocom_128
+  - first:
+      213: 8820115470912070418
+    second: Hip Hop Dancing (1)_export_mixamocom_129
+  - first:
+      213: -9067746968557364766
+    second: Hip Hop Dancing (1)_export_mixamocom_130
+  - first:
+      213: -3479410311327430424
+    second: Hip Hop Dancing (1)_export_mixamocom_131
+  - first:
+      213: 6857028246393649073
+    second: Hip Hop Dancing (1)_export_mixamocom_132
+  - first:
+      213: -3717369419111462693
+    second: Hip Hop Dancing (1)_export_mixamocom_133
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 394
+        width: 56
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fe8c6491964eac0800000000000000
+      internalID: -3826818226075406444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 393
+        width: 53
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ec56d133da45220800000000000000
+      internalID: 2473792530381393494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 394
+        width: 49
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20fc7869bb166e200800000000000000
+      internalID: 208961891031568130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 394
+        width: 43
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a727a87e1b274bdf0800000000000000
+      internalID: -165381177886477702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_4
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 394
+        width: 42
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fde21c0113a80520800000000000000
+      internalID: 2668562072829357552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_5
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 394
+        width: 39
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c49dc98d44985bf0800000000000000
+      internalID: -335355111493757754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_6
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 394
+        width: 39
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce1460223ddb6a80800000000000000
+      internalID: -8472435066605920576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_7
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 394
+        width: 41
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32955b209642caf40800000000000000
+      internalID: 5741003658426145059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_8
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 394
+        width: 44
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6117cbb7d73c11d80800000000000000
+      internalID: -8281623296043355882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_9
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 393
+        width: 47
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21643e5829dffc360800000000000000
+      internalID: 7192245935687288338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_10
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 394
+        width: 49
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fcbd9d70decfe80800000000000000
+      internalID: -8143373408217084068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_11
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 394
+        width: 50
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831e89719b04945e0800000000000000
+      internalID: -1924936202015153864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_12
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 394
+        width: 51
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3376f7333e07a10800000000000000
+      internalID: 1905272452698026985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_13
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 394
+        width: 50
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85ae494776978800800000000000000
+      internalID: 614625313234527630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_14
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 394
+        width: 50
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b3390eef2786f20800000000000000
+      internalID: 3416106756375526220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_15
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 393
+        width: 50
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f58f9a732a5ab60800000000000000
+      internalID: 7756784293174075261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_16
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 394
+        width: 49
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e5bf57e89923fb0800000000000000
+      internalID: -4669501026485969325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_17
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 393
+        width: 48
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e806201b1faf3f70800000000000000
+      internalID: 9169239897119525097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_18
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 394
+        width: 46
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403f5626a58b6f1b0800000000000000
+      internalID: -5623104386388069628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_19
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 393
+        width: 41
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd79abe8254a7580800000000000000
+      internalID: -8828668077451674165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_20
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 394
+        width: 38
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c6652d5ab10b0b0800000000000000
+      internalID: -5715037528120726382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_21
+      rect:
+        serializedVersion: 2
+        x: 2138
+        y: 394
+        width: 36
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d33a969841a5570800000000000000
+      internalID: 8456093830756908399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_22
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 394
+        width: 36
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d7c4f6afad489e0800000000000000
+      internalID: -1619929196802572902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_23
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 394
+        width: 37
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83ef61ce99115d80800000000000000
+      internalID: -8263795671607286900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_24
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 394
+        width: 39
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d005a913631a2fc30800000000000000
+      internalID: 4391749840772157453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_25
+      rect:
+        serializedVersion: 2
+        x: 2537
+        y: 394
+        width: 46
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be854362b40eea360800000000000000
+      internalID: 7182925069070653675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_26
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 394
+        width: 49
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f1fb209a93ab5b0800000000000000
+      internalID: -5351901809118077032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_27
+      rect:
+        serializedVersion: 2
+        x: 2734
+        y: 393
+        width: 51
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e644fda434600c0800000000000000
+      internalID: -4609923179714679200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_28
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 394
+        width: 53
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db65fe4ad2c1d310800000000000000
+      internalID: 1428136799736523730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_29
+      rect:
+        serializedVersion: 2
+        x: 2931
+        y: 393
+        width: 54
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92b23e61a6756c00800000000000000
+      internalID: 893250536813539999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_30
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 394
+        width: 55
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78655d4cf13d491b0800000000000000
+      internalID: -5650659499043367289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_31
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 393
+        width: 55
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8af098767b808120800000000000000
+      internalID: 2414082741215754891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_32
+      rect:
+        serializedVersion: 2
+        x: 3230
+        y: 393
+        width: 54
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63a79c759ae78640800000000000000
+      internalID: 5082288632272233322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_33
+      rect:
+        serializedVersion: 2
+        x: 3331
+        y: 393
+        width: 53
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96107d09486ecd400800000000000000
+      internalID: 350408328068137321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_34
+      rect:
+        serializedVersion: 2
+        x: 3433
+        y: 393
+        width: 49
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d772c761b2cb9560800000000000000
+      internalID: 7321659686426671062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_35
+      rect:
+        serializedVersion: 2
+        x: 3537
+        y: 394
+        width: 47
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58619763e455db890800000000000000
+      internalID: -7440697214936476027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_36
+      rect:
+        serializedVersion: 2
+        x: 3638
+        y: 394
+        width: 46
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67bfbfa2a7b2d9220800000000000000
+      internalID: 2494197572340284278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_37
+      rect:
+        serializedVersion: 2
+        x: 3739
+        y: 394
+        width: 44
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab50990f649fe1220800000000000000
+      internalID: 2458676529670456762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_38
+      rect:
+        serializedVersion: 2
+        x: 3837
+        y: 394
+        width: 41
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1748935aaa1334f70800000000000000
+      internalID: 9170227875242673265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_39
+      rect:
+        serializedVersion: 2
+        x: 3936
+        y: 394
+        width: 41
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fa5eba30a6eb4f0800000000000000
+      internalID: -811094318878707834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_40
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 264
+        width: 48
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d690726d738945000800000000000000
+      internalID: 23811263627200877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_41
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 263
+        width: 52
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e091c1ab2013bd80800000000000000
+      internalID: -8236221513947049757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_42
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 263
+        width: 53
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e787f03de57e89430800000000000000
+      internalID: 3790033480886220926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_43
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 262
+        width: 58
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c54113f6121af750800000000000000
+      internalID: 6339399315253970375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_44
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 263
+        width: 62
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8649c510c221a20800000000000000
+      internalID: 3031533883533584551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_45
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 263
+        width: 67
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26edadbcaff875b90800000000000000
+      internalID: -7253170367532179870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_46
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 263
+        width: 72
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816986d27a38555e0800000000000000
+      internalID: -1921484911959042536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_47
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 263
+        width: 73
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcb44452c4e99c40800000000000000
+      internalID: 5519694341607832799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_48
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 263
+        width: 73
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16806cc9f8fb948c0800000000000000
+      internalID: -4014466969292634015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_49
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 263
+        width: 74
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a339ef1b8140d6b0800000000000000
+      internalID: -5273643097859214428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_50
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 264
+        width: 75
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0515e646857d98880800000000000000
+      internalID: -8608112438099947184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_51
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 264
+        width: 76
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82881e8800a8751c0800000000000000
+      internalID: -4514988366514517976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_52
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 264
+        width: 74
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3a7dfe5f341e5e0800000000000000
+      internalID: -1882148445694221397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_53
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 264
+        width: 71
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88ff8ff2246804d0800000000000000
+      internalID: -3168172236375852917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_54
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 264
+        width: 65
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7615b203e2fbffbc0800000000000000
+      internalID: -3747066159851417241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_55
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 264
+        width: 57
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60c5e14a5e035720800000000000000
+      internalID: 2833624371361595501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_56
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 264
+        width: 48
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16813124e5195aac0800000000000000
+      internalID: -3844506872869349279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_57
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 264
+        width: 50
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134def91b0b031880800000000000000
+      internalID: -8641551117685173199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_58
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 264
+        width: 51
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a2c909362f4a430800000000000000
+      internalID: 3793423295594637870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_59
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 263
+        width: 55
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf11d049acd52e350800000000000000
+      internalID: 6044496774533288443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_60
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 264
+        width: 57
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcfcd8db58789580800000000000000
+      internalID: -8820167534329398059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_61
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 263
+        width: 60
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ff98e6b75e10ae0800000000000000
+      internalID: -1584733275559428287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_62
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 264
+        width: 61
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3812d833a68c5d5b0800000000000000
+      internalID: -5344145024348249725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_63
+      rect:
+        serializedVersion: 2
+        x: 2301
+        y: 264
+        width: 63
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e3ad2f730a44e00800000000000000
+      internalID: 1028122777105350176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_64
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 264
+        width: 64
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7589aea501e0aff0800000000000000
+      internalID: -26774183242791557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_65
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 263
+        width: 65
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067d5c353e23bf270800000000000000
+      internalID: 8285271891422599008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_66
+      rect:
+        serializedVersion: 2
+        x: 2601
+        y: 263
+        width: 63
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4307aedb5f38ece30800000000000000
+      internalID: 4525699767030411316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_67
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 263
+        width: 61
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96271a6db26ec2320800000000000000
+      internalID: 2534653766261633641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_68
+      rect:
+        serializedVersion: 2
+        x: 2804
+        y: 264
+        width: 56
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a62c3c54a348e00800000000000000
+      internalID: 1046025084768250492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_69
+      rect:
+        serializedVersion: 2
+        x: 2908
+        y: 264
+        width: 50
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a8ae81063c68d50800000000000000
+      internalID: 6739288709908826714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_70
+      rect:
+        serializedVersion: 2
+        x: 3011
+        y: 264
+        width: 46
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f160ddfb6396fd980800000000000000
+      internalID: -8511969086838864353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_71
+      rect:
+        serializedVersion: 2
+        x: 3116
+        y: 264
+        width: 44
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1063a433d55346af0800000000000000
+      internalID: -404139392147769855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_72
+      rect:
+        serializedVersion: 2
+        x: 3219
+        y: 264
+        width: 42
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e3497cfaaaf59c0800000000000000
+      internalID: -3936239877354144163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_73
+      rect:
+        serializedVersion: 2
+        x: 3319
+        y: 264
+        width: 44
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f11806b11fb38a80800000000000000
+      internalID: -8465712791737069063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_74
+      rect:
+        serializedVersion: 2
+        x: 3419
+        y: 264
+        width: 44
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f81eb2e33a718490800000000000000
+      internalID: -7745775520834512648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_75
+      rect:
+        serializedVersion: 2
+        x: 3519
+        y: 263
+        width: 48
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee399141932b3b7b0800000000000000
+      internalID: -5209624385717431314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_76
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 264
+        width: 47
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026808ffbfe5b27c0800000000000000
+      internalID: -4095074999746918880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_77
+      rect:
+        serializedVersion: 2
+        x: 3723
+        y: 264
+        width: 46
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6492a390cb94ad040800000000000000
+      internalID: 4673128635307796806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_78
+      rect:
+        serializedVersion: 2
+        x: 3824
+        y: 264
+        width: 45
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3d9c6c8ad1a0240800000000000000
+      internalID: 4758648566997177262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_79
+      rect:
+        serializedVersion: 2
+        x: 3924
+        y: 264
+        width: 45
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1a565b16bbfa640800000000000000
+      internalID: 5093495731908878781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_80
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 134
+        width: 43
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688bd06a48213e950800000000000000
+      internalID: 6477041050019805318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_81
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 134
+        width: 43
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eeb03c74dbf98af0800000000000000
+      internalID: -393506602382999839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_82
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 134
+        width: 46
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5e792cf5fdbcf30800000000000000
+      internalID: 4597013447041344983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_83
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 134
+        width: 44
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb11f3208d1cf3a0800000000000000
+      internalID: -6630392115200189442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_84
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 134
+        width: 40
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6b952d48b734200800000000000000
+      internalID: 163109821910464164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_85
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 133
+        width: 40
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5a1afbc570a65d0800000000000000
+      internalID: -3068632101166144071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_86
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 134
+        width: 37
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5a65099cc40a390800000000000000
+      internalID: -7809157325266704969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_87
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 134
+        width: 36
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd48149cd7a7e390800000000000000
+      internalID: -7789072464694719043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_88
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 134
+        width: 35
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2770aae1d49211750800000000000000
+      internalID: 6273841167107491698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_89
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 134
+        width: 34
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8468a6e8cbc865c0800000000000000
+      internalID: -4221900586936146804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_90
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 134
+        width: 37
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a250935a5cb14f390800000000000000
+      internalID: -7785567320122260182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_91
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 134
+        width: 45
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a12b521d8010450800000000000000
+      internalID: 6053129068536273567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_92
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 134
+        width: 44
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483a71bb3638ff1e0800000000000000
+      internalID: -2161864831750659196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_93
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 133
+        width: 48
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58dcfeb4875869390800000000000000
+      internalID: -7811909751910969979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_94
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 134
+        width: 49
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34dfcc82395816350800000000000000
+      internalID: 6008230244980161859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_95
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 133
+        width: 49
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9aee6705a1abd050800000000000000
+      internalID: 5826428273100253853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_96
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 133
+        width: 51
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917e131a67d4668a0800000000000000
+      internalID: -6312272655807289575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_97
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 133
+        width: 53
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72399d87be278d7e0800000000000000
+      internalID: -1740514900308290777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_98
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 133
+        width: 53
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3dfe4c05f1d0eeb0800000000000000
+      internalID: -4692519961316360899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_99
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 133
+        width: 50
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0cb428aad7041890800000000000000
+      internalID: -7488351644705047540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_100
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 133
+        width: 49
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe6bfc7df08c4700800000000000000
+      internalID: 525937082707439359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_101
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 134
+        width: 45
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de045c09c5644a7f0800000000000000
+      internalID: -602279086781021971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_102
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 134
+        width: 42
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efd5418b41dcaa00800000000000000
+      internalID: 769219758595104742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_103
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 134
+        width: 44
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44218e875cc93590800000000000000
+      internalID: -7693893811960732594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_104
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 134
+        width: 42
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e487391f16e20a0800000000000000
+      internalID: -6904473488523243934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_105
+      rect:
+        serializedVersion: 2
+        x: 2532
+        y: 134
+        width: 41
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b3dcbff2b7202b0800000000000000
+      internalID: -5619793938986747079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_106
+      rect:
+        serializedVersion: 2
+        x: 2631
+        y: 134
+        width: 48
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af80664267d345540800000000000000
+      internalID: 4995685464286824698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_107
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 134
+        width: 53
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f130edf72891bd0800000000000000
+      internalID: -2658950619288363152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_108
+      rect:
+        serializedVersion: 2
+        x: 2831
+        y: 134
+        width: 56
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572de6b2ee1957050800000000000000
+      internalID: 5797700547426308725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_109
+      rect:
+        serializedVersion: 2
+        x: 2932
+        y: 133
+        width: 58
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ce72f3b59212670800000000000000
+      internalID: 8512130242585291923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_110
+      rect:
+        serializedVersion: 2
+        x: 3025
+        y: 133
+        width: 67
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e77b80a37e1dece0800000000000000
+      internalID: -1374408829314566174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_111
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 133
+        width: 71
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3928c5bd72d849e0800000000000000
+      internalID: -1636827027186636483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_112
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 134
+        width: 74
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0f63241cff7edd0800000000000000
+      internalID: -2456713866202648347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_113
+      rect:
+        serializedVersion: 2
+        x: 3318
+        y: 134
+        width: 76
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30975e50560b22480800000000000000
+      internalID: -8925377563557791485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_114
+      rect:
+        serializedVersion: 2
+        x: 3417
+        y: 133
+        width: 77
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63fb24160ef7ace0800000000000000
+      internalID: -1393866257586195602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_115
+      rect:
+        serializedVersion: 2
+        x: 3517
+        y: 134
+        width: 77
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc9176a2479bb260800000000000000
+      internalID: 7114446348877929680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_116
+      rect:
+        serializedVersion: 2
+        x: 3617
+        y: 134
+        width: 76
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788e6850d17b035f0800000000000000
+      internalID: -778921400260433785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_117
+      rect:
+        serializedVersion: 2
+        x: 3715
+        y: 134
+        width: 78
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adce3cea34e63de20800000000000000
+      internalID: 3374161782804573402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_118
+      rect:
+        serializedVersion: 2
+        x: 3813
+        y: 134
+        width: 78
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9eb35f901bf8eed0800000000000000
+      internalID: -2384379953881563490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_119
+      rect:
+        serializedVersion: 2
+        x: 3912
+        y: 134
+        width: 75
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293f7af9ae26c3bd0800000000000000
+      internalID: -2649133720960240750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_120
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 4
+        width: 72
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac5991e6063a8880800000000000000
+      internalID: -8608008334582653789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_121
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 4
+        width: 66
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24156ba92e91f5640800000000000000
+      internalID: 5070800166491410754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_122
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 4
+        width: 58
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856d72c3a32f12040800000000000000
+      internalID: 4621241024590108248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_123
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 4
+        width: 48
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff87a30aed50874e0800000000000000
+      internalID: -1983829182127638273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_124
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 4
+        width: 43
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29faae1386517e590800000000000000
+      internalID: -7645118305179881582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_125
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 4
+        width: 46
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bb9d8a62adb6040800000000000000
+      internalID: 4642043700511882046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_126
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 4
+        width: 49
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ee9a0e1fe04cd00800000000000000
+      internalID: 991934249947491889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_127
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 3
+        width: 51
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9490ee43e9e1596c0800000000000000
+      internalID: -4137367017828251319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_128
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 4
+        width: 53
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53647729a93df84d0800000000000000
+      internalID: -3130050555163490763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_129
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 4
+        width: 56
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21324a13a48576a70800000000000000
+      internalID: 8820115470912070418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_130
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 4
+        width: 58
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e95302dc24e82280800000000000000
+      internalID: -9067746968557364766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_131
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 4
+        width: 59
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e84f7da1c6a6bfc0800000000000000
+      internalID: -3479410311327430424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_132
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 4
+        width: 60
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7fc192cde092f50800000000000000
+      internalID: 6857028246393649073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip Hop Dancing (1)_export_mixamocom_133
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 3
+        width: 58
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd806f27530496cc0800000000000000
+      internalID: -3717369419111462693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

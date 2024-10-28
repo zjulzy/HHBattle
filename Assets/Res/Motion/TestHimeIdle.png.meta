@@ -1,0 +1,2317 @@
+fileFormatVersion: 2
+guid: f997c507cc6975142958d3dba0c09a15
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2935696315909127458
+    second: TestHimeIdle_0
+  - first:
+      213: -6041404607495430858
+    second: TestHimeIdle_1
+  - first:
+      213: 2682023584598895093
+    second: TestHimeIdle_2
+  - first:
+      213: -203991591570341526
+    second: TestHimeIdle_3
+  - first:
+      213: -4880645428128162606
+    second: TestHimeIdle_4
+  - first:
+      213: 6108194785083748853
+    second: TestHimeIdle_5
+  - first:
+      213: -2064935577960838289
+    second: TestHimeIdle_6
+  - first:
+      213: 2274967066030547694
+    second: TestHimeIdle_7
+  - first:
+      213: 3261749670108724320
+    second: TestHimeIdle_8
+  - first:
+      213: -911093889240128013
+    second: TestHimeIdle_9
+  - first:
+      213: -6795414451831854684
+    second: TestHimeIdle_10
+  - first:
+      213: -1834156269551462545
+    second: TestHimeIdle_11
+  - first:
+      213: -389358968831312006
+    second: TestHimeIdle_12
+  - first:
+      213: 5695455006464717631
+    second: TestHimeIdle_13
+  - first:
+      213: 8398986117634500679
+    second: TestHimeIdle_14
+  - first:
+      213: 7753164275598281219
+    second: TestHimeIdle_15
+  - first:
+      213: -3151707331141430116
+    second: TestHimeIdle_16
+  - first:
+      213: 4688182501876592041
+    second: TestHimeIdle_17
+  - first:
+      213: -3384693979169189242
+    second: TestHimeIdle_18
+  - first:
+      213: 2161112726327530040
+    second: TestHimeIdle_19
+  - first:
+      213: -3976901953571017803
+    second: TestHimeIdle_20
+  - first:
+      213: -8853585567373522015
+    second: TestHimeIdle_21
+  - first:
+      213: 6985377951758827397
+    second: TestHimeIdle_22
+  - first:
+      213: 5321857253381992711
+    second: TestHimeIdle_23
+  - first:
+      213: 7773997796193645508
+    second: TestHimeIdle_24
+  - first:
+      213: 6208266572886001102
+    second: TestHimeIdle_25
+  - first:
+      213: 6978148745580690263
+    second: TestHimeIdle_26
+  - first:
+      213: 3836458305801121389
+    second: TestHimeIdle_27
+  - first:
+      213: -5452229641031498939
+    second: TestHimeIdle_28
+  - first:
+      213: -7878585325774819005
+    second: TestHimeIdle_29
+  - first:
+      213: -1400344022662273117
+    second: TestHimeIdle_30
+  - first:
+      213: 1710537963623252090
+    second: TestHimeIdle_31
+  - first:
+      213: -9000159474940148058
+    second: TestHimeIdle_32
+  - first:
+      213: -5659579706104654186
+    second: TestHimeIdle_33
+  - first:
+      213: -4745140331164114491
+    second: TestHimeIdle_34
+  - first:
+      213: 7580174684217776588
+    second: TestHimeIdle_35
+  - first:
+      213: 7751905879013492108
+    second: TestHimeIdle_36
+  - first:
+      213: -4879353036130936398
+    second: TestHimeIdle_37
+  - first:
+      213: 3598902490806052638
+    second: TestHimeIdle_38
+  - first:
+      213: -576378600096971085
+    second: TestHimeIdle_39
+  - first:
+      213: 4361528953410261349
+    second: TestHimeIdle_40
+  - first:
+      213: -6050062024770454741
+    second: TestHimeIdle_41
+  - first:
+      213: -7125168205422058914
+    second: TestHimeIdle_42
+  - first:
+      213: 1421509205420718139
+    second: TestHimeIdle_43
+  - first:
+      213: 8015158390119611512
+    second: TestHimeIdle_44
+  - first:
+      213: -894914105373314976
+    second: TestHimeIdle_45
+  - first:
+      213: 2473726733575769661
+    second: TestHimeIdle_46
+  - first:
+      213: 8653400539026498748
+    second: TestHimeIdle_47
+  - first:
+      213: 5559454120424526447
+    second: TestHimeIdle_48
+  - first:
+      213: 1349210480844126875
+    second: TestHimeIdle_49
+  - first:
+      213: -2091177672877392601
+    second: TestHimeIdle_50
+  - first:
+      213: -6832457287125222678
+    second: TestHimeIdle_51
+  - first:
+      213: -7659515797901087314
+    second: TestHimeIdle_52
+  - first:
+      213: 668428529558286413
+    second: TestHimeIdle_53
+  - first:
+      213: -7953580310655205484
+    second: TestHimeIdle_54
+  - first:
+      213: 1855858313799569641
+    second: TestHimeIdle_55
+  - first:
+      213: 6304328746264041150
+    second: TestHimeIdle_56
+  - first:
+      213: -4318322718054114612
+    second: TestHimeIdle_57
+  - first:
+      213: -8017244073585232252
+    second: TestHimeIdle_58
+  - first:
+      213: -4403967017238536903
+    second: TestHimeIdle_59
+  - first:
+      213: 8183591203146583590
+    second: TestHimeIdle_60
+  - first:
+      213: -5763953901759233482
+    second: TestHimeIdle_61
+  - first:
+      213: 5542090770225447110
+    second: TestHimeIdle_62
+  - first:
+      213: -7057006052270866631
+    second: TestHimeIdle_63
+  - first:
+      213: -4942551325944874981
+    second: TestHimeIdle_64
+  - first:
+      213: -6506507639010004354
+    second: TestHimeIdle_65
+  - first:
+      213: -7901125975698413130
+    second: TestHimeIdle_66
+  - first:
+      213: 8971812427575133215
+    second: TestHimeIdle_67
+  - first:
+      213: -5049919861207653308
+    second: TestHimeIdle_68
+  - first:
+      213: -4057235462851277265
+    second: TestHimeIdle_69
+  - first:
+      213: -714628178018616522
+    second: TestHimeIdle_70
+  - first:
+      213: 2894964942662695418
+    second: TestHimeIdle_71
+  - first:
+      213: -6494895865382707743
+    second: TestHimeIdle_72
+  - first:
+      213: 8344813884332588839
+    second: TestHimeIdle_73
+  - first:
+      213: 6921717569376662526
+    second: TestHimeIdle_74
+  - first:
+      213: 4122574646510528478
+    second: TestHimeIdle_75
+  - first:
+      213: -6504011477364994284
+    second: TestHimeIdle_76
+  - first:
+      213: -3565999273797768544
+    second: TestHimeIdle_77
+  - first:
+      213: -1294530167291513803
+    second: TestHimeIdle_78
+  - first:
+      213: -5390044816108431297
+    second: TestHimeIdle_79
+  - first:
+      213: -1471611462455809974
+    second: TestHimeIdle_80
+  - first:
+      213: 4119889853156551979
+    second: TestHimeIdle_81
+  - first:
+      213: -4252770904422284192
+    second: TestHimeIdle_82
+  - first:
+      213: 1944735321084938306
+    second: TestHimeIdle_83
+  - first:
+      213: -6290855005448731312
+    second: TestHimeIdle_84
+  - first:
+      213: -8887595117464561863
+    second: TestHimeIdle_85
+  - first:
+      213: 3030559159546942031
+    second: TestHimeIdle_86
+  - first:
+      213: 5754554395545977348
+    second: TestHimeIdle_87
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TestHimeIdle_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 390
+        width: 37
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22dbf2ece30bdb820800000000000000
+      internalID: 2935696315909127458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 520
+        width: 35
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d93d9a48e982ca0800000000000000
+      internalID: -6041404607495430858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 390
+        width: 37
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9ac3f7d36783520800000000000000
+      internalID: 2682023584598895093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 520
+        width: 35
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61884f6ab64b2df0800000000000000
+      internalID: -203991591570341526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_4
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 390
+        width: 37
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc59c587d6744cb0800000000000000
+      internalID: -4880645428128162606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_5
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 520
+        width: 35
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f17fcf5bcaa4c450800000000000000
+      internalID: 6108194785083748853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_6
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 390
+        width: 37
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b04974800e753e0800000000000000
+      internalID: -2064935577960838289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_7
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 520
+        width: 36
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2a6764e7e429f10800000000000000
+      internalID: 2274967066030547694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_8
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 390
+        width: 37
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cf3112b00144d20800000000000000
+      internalID: 3261749670108724320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_9
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 520
+        width: 36
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f520d65fe42b53f0800000000000000
+      internalID: -911093889240128013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_10
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 390
+        width: 37
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9a1094f86d1b1a0800000000000000
+      internalID: -6795414451831854684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_11
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 519
+        width: 35
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6754d23794cb86e0800000000000000
+      internalID: -1834156269551462545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_12
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 519
+        width: 35
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f72bca418b89af0800000000000000
+      internalID: -389358968831312006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_13
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 520
+        width: 35
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33bc8e07225a0f40800000000000000
+      internalID: 5695455006464717631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_14
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 520
+        width: 36
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748aa0fcf513f8470800000000000000
+      internalID: 8398986117634500679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_15
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 520
+        width: 36
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ac844a4d5c89b60800000000000000
+      internalID: 7753164275598281219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_16
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 520
+        width: 35
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94125b71e2e244d0800000000000000
+      internalID: -3151707331141430116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_17
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 520
+        width: 35
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad6e8a7525cf0140800000000000000
+      internalID: 4688182501876592041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_18
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 520
+        width: 35
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682973242c62701d0800000000000000
+      internalID: -3384693979169189242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_19
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 520
+        width: 35
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83214541390ddfd10800000000000000
+      internalID: 2161112726327530040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_20
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 520
+        width: 35
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bba7d66eb43fc8c0800000000000000
+      internalID: -3976901953571017803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_21
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 520
+        width: 37
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab0d24b5deb12580800000000000000
+      internalID: -8853585567373522015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_22
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 520
+        width: 38
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f3e6cac3c01f060800000000000000
+      internalID: 6985377951758827397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_23
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 520
+        width: 39
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7017b2db9f80bd940800000000000000
+      internalID: 5321857253381992711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_24
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 520
+        width: 37
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3bac6aec9c2eb60800000000000000
+      internalID: 7773997796193645508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_25
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 520
+        width: 36
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec54dc32e81382650800000000000000
+      internalID: 6208266572886001102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_26
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 390
+        width: 37
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75bbc22ff4d57d060800000000000000
+      internalID: 6978148745580690263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_27
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 390
+        width: 36
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e6fd0b086dd3530800000000000000
+      internalID: 3836458305801121389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_28
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 390
+        width: 38
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5434674570ac554b0800000000000000
+      internalID: -5452229641031498939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_29
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 390
+        width: 38
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34136948364a9a290800000000000000
+      internalID: -7878585325774819005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_30
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 390
+        width: 39
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7afddd78af09ce0800000000000000
+      internalID: -1400344022662273117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_31
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 389
+        width: 36
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a708590173d0db710800000000000000
+      internalID: 1710537963623252090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_32
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 389
+        width: 36
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6835674a2091380800000000000000
+      internalID: -9000159474940148058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_33
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 389
+        width: 36
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6965f973e322571b0800000000000000
+      internalID: -5659579706104654186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_34
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 389
+        width: 35
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c165977200e52eb0800000000000000
+      internalID: -4745140331164114491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_35
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 389
+        width: 35
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9953cb6b0323960800000000000000
+      internalID: 7580174684217776588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_36
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 389
+        width: 35
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c858cda535d449b60800000000000000
+      internalID: 7751905879013492108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_37
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 389
+        width: 36
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b911bbf34e094cb0800000000000000
+      internalID: -4879353036130936398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_38
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 389
+        width: 34
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1763c16fbed1f130800000000000000
+      internalID: 3598902490806052638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_39
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 389
+        width: 34
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6451d87ba4008f0800000000000000
+      internalID: -576378600096971085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_40
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 259
+        width: 38
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56199998973478c30800000000000000
+      internalID: 4361528953410261349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_41
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 259
+        width: 40
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bf970a4acd90ca0800000000000000
+      internalID: -6050062024770454741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_42
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 259
+        width: 42
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5229e694415e1d90800000000000000
+      internalID: -7125168205422058914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_43
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 259
+        width: 44
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38bc0247173ab310800000000000000
+      internalID: 1421509205420718139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_44
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 259
+        width: 43
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c3295f6109b3f60800000000000000
+      internalID: 8015158390119611512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_45
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 259
+        width: 42
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060bcb4dc50a493f0800000000000000
+      internalID: -894914105373314976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_46
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 260
+        width: 43
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ecb2a9b51745220800000000000000
+      internalID: 2473726733575769661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_47
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 260
+        width: 42
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb429db41fd071870800000000000000
+      internalID: 8653400539026498748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_48
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 260
+        width: 42
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f625cf83116272d40800000000000000
+      internalID: 5559454120424526447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_49
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 260
+        width: 40
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ab2fda8cb59b210800000000000000
+      internalID: 1349210480844126875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_50
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 260
+        width: 39
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d3aed6cf4aaf2e0800000000000000
+      internalID: -2091177672877392601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_51
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 260
+        width: 39
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea3fd91c4c3e21a0800000000000000
+      internalID: -6832457287125222678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_52
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 260
+        width: 39
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadec92b6fee3b590800000000000000
+      internalID: -7659515797901087314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_53
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 260
+        width: 39
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40fe06c43cb64900800000000000000
+      internalID: 668428529558286413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_54
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 260
+        width: 38
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ffadae8d43f9190800000000000000
+      internalID: -7953580310655205484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_55
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 260
+        width: 37
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e09a7bbd4551c910800000000000000
+      internalID: 1855858313799569641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_56
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 260
+        width: 35
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb61a5cc7997d7750800000000000000
+      internalID: 6304328746264041150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_57
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 259
+        width: 34
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca92ec0e5c3214c0800000000000000
+      internalID: -4318322718054114612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_58
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 259
+        width: 34
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486b8540ef60db090800000000000000
+      internalID: -8017244073585232252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_59
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 259
+        width: 35
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93dd5feb457f1e2c0800000000000000
+      internalID: -4403967017238536903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_60
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 129
+        width: 35
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e409a37d4f19170800000000000000
+      internalID: 8183591203146583590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_61
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 129
+        width: 36
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6320aef07725200b0800000000000000
+      internalID: -5763953901759233482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_62
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 129
+        width: 36
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c04248313679ec40800000000000000
+      internalID: 5542090770225447110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_63
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 129
+        width: 36
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ffc94926a701e90800000000000000
+      internalID: -7057006052270866631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_64
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 129
+        width: 37
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b187bec71c7886bb0800000000000000
+      internalID: -4942551325944874981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_65
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 129
+        width: 36
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72717876cd34b5a0800000000000000
+      internalID: -6506507639010004354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_66
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 130
+        width: 36
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b962ec79cf895290800000000000000
+      internalID: -7901125975698413130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_67
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 130
+        width: 37
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f140d014ed7428c70800000000000000
+      internalID: 8971812427575133215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_68
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 130
+        width: 37
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444278054a41be9b0800000000000000
+      internalID: -5049919861207653308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_69
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 130
+        width: 37
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ec1aab7ddc1b7c0800000000000000
+      internalID: -4057235462851277265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_70
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 130
+        width: 38
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b37b655712516f0800000000000000
+      internalID: -714628178018616522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_71
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 130
+        width: 38
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af97e94f64bfc2820800000000000000
+      internalID: 2894964942662695418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_72
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 130
+        width: 38
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1edd5b23f9e7dd5a0800000000000000
+      internalID: -6494895865382707743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_73
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 130
+        width: 38
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f346cd30cbec370800000000000000
+      internalID: 8344813884332588839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_74
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 130
+        width: 38
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3b64ed471ee0060800000000000000
+      internalID: 6921717569376662526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_75
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 130
+        width: 37
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7aa457cc3563930800000000000000
+      internalID: 4122574646510528478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_76
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 130
+        width: 37
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f8894650c1db5a0800000000000000
+      internalID: -6504011477364994284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_77
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 130
+        width: 37
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aaabffcd86038ec0800000000000000
+      internalID: -3565999273797768544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_78
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 130
+        width: 37
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534ff8beba7e80ee0800000000000000
+      internalID: -1294530167291513803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_79
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 130
+        width: 37
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38db642cc6b235b0800000000000000
+      internalID: -5390044816108431297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_80
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 36
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48adecfb29c39be0800000000000000
+      internalID: -1471611462455809974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 36
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2de12b4ef9cc2930800000000000000
+      internalID: 4119889853156551979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_82
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 36
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0640bc2056f1bf4c0800000000000000
+      internalID: -4252770904422284192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_83
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 36
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2484c6b88761dfa10800000000000000
+      internalID: 1944735321084938306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_84
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 0
+        width: 36
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0558db2f3b462b8a0800000000000000
+      internalID: -6290855005448731312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_85
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 36
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9375704445be8a480800000000000000
+      internalID: -8887595117464561863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_86
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 0
+        width: 35
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f421a9fbf75be0a20800000000000000
+      internalID: 3030559159546942031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeIdle_87
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 0
+        width: 35
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4024e2bdbb84cdf40800000000000000
+      internalID: 5754554395545977348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

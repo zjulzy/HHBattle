@@ -1,0 +1,842 @@
+fileFormatVersion: 2
+guid: e1ab599f6b29c7e4185b6378d93905cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8142856706667117337
+    second: TestHimeWalk_0
+  - first:
+      213: 4794238755295695403
+    second: TestHimeWalk_1
+  - first:
+      213: -3275105360511634843
+    second: TestHimeWalk_2
+  - first:
+      213: 2300934775553684131
+    second: TestHimeWalk_3
+  - first:
+      213: -8596887820069641733
+    second: TestHimeWalk_4
+  - first:
+      213: 3298477024415595159
+    second: TestHimeWalk_5
+  - first:
+      213: -584992292015746743
+    second: TestHimeWalk_6
+  - first:
+      213: -6650242308512607279
+    second: TestHimeWalk_7
+  - first:
+      213: 7630446609406513952
+    second: TestHimeWalk_8
+  - first:
+      213: -5663002886170947545
+    second: TestHimeWalk_9
+  - first:
+      213: 8524348461644830115
+    second: TestHimeWalk_10
+  - first:
+      213: -5891684685570635773
+    second: TestHimeWalk_11
+  - first:
+      213: -123061308502075320
+    second: TestHimeWalk_12
+  - first:
+      213: 6671017030358251630
+    second: TestHimeWalk_13
+  - first:
+      213: -2294146310337305913
+    second: TestHimeWalk_14
+  - first:
+      213: 97261431617388403
+    second: TestHimeWalk_15
+  - first:
+      213: -4454529917014916822
+    second: TestHimeWalk_16
+  - first:
+      213: -7678815590237489392
+    second: TestHimeWalk_17
+  - first:
+      213: -3143218374153978523
+    second: TestHimeWalk_18
+  - first:
+      213: 7330533730410733147
+    second: TestHimeWalk_19
+  - first:
+      213: -5873468794559080960
+    second: TestHimeWalk_20
+  - first:
+      213: -3591896321484789962
+    second: TestHimeWalk_21
+  - first:
+      213: 7351022906006453768
+    second: TestHimeWalk_22
+  - first:
+      213: 717073569538454992
+    second: TestHimeWalk_23
+  - first:
+      213: 9028328753586182876
+    second: TestHimeWalk_24
+  - first:
+      213: -8202216309518644962
+    second: TestHimeWalk_25
+  - first:
+      213: 6477344758612545235
+    second: TestHimeWalk_26
+  - first:
+      213: -1278445625552722408
+    second: TestHimeWalk_27
+  - first:
+      213: -6734062458982877400
+    second: TestHimeWalk_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TestHimeWalk_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 259
+        width: 35
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91bfcc1380d310170800000000000000
+      internalID: 8142856706667117337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeWalk_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 259
+        width: 35
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b229fc93fbe888240800000000000000
+      internalID: 4794238755295695403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeWalk_2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 260
+        width: 36
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562f9b0e60d7c82d0800000000000000
+      internalID: -3275105360511634843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeWalk_3
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 259
+        width: 42
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2783cccff8eef10800000000000000
+      internalID: 2300934775553684131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeWalk_4
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 260
+        width: 52
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1edde6318b1b880800000000000000
+      internalID: -8596887820069641733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeWalk_5
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 260
+        width: 59
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a341ca06b86cd20800000000000000
+      internalID: 3298477024415595159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeWalk_6
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 260
+        width: 66
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9415f0e1c90b1e7f0800000000000000
+      internalID: -584992292015746743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeWalk_7
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 260
+        width: 67
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d315dadad795b3a0800000000000000
+      internalID: -6650242308512607279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeWalk_8
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 260
+        width: 70
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023524f63cac4e960800000000000000
+      internalID: 7630446609406513952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeWalk_9
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 260
+        width: 68
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720d4cff0e8f861b0800000000000000
+      internalID: -5663002886170947545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeWalk_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 130
+        width: 66
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5dcfd03c19c4670800000000000000
+      internalID: 8524348461644830115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeWalk_11
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 129
+        width: 59
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30804f37ef78c3ea0800000000000000
+      internalID: -5891684685570635773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeWalk_12
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 130
+        width: 54
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8489325546cca4ef0800000000000000
+      internalID: -123061308502075320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeWalk_13
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 130
+        width: 46
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68b51105a6349c50800000000000000
+      internalID: 6671017030358251630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeWalk_14
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 130
+        width: 40
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2629de51e8920e0800000000000000
+      internalID: -2294146310337305913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeWalk_15
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 130
+        width: 33
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f76e9b1ca895100800000000000000
+      internalID: 97261431617388403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeWalk_16
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 130
+        width: 31
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21c9fe34a45e22c0800000000000000
+      internalID: -4454529917014916822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeWalk_17
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 130
+        width: 35
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017b920a7ed5f6590800000000000000
+      internalID: -7678815590237489392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeWalk_18
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 130
+        width: 45
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d321dca8b0164d0800000000000000
+      internalID: -3143218374153978523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeWalk_19
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 130
+        width: 54
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e9627c6994bb560800000000000000
+      internalID: 7330533730410733147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeWalk_20
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 61
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006d6f4104f3d7ea0800000000000000
+      internalID: -5873468794559080960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeWalk_21
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 0
+        width: 62
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637edd78355072ec0800000000000000
+      internalID: -3591896321484789962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeWalk_22
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 0
+        width: 62
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e3648b264140660800000000000000
+      internalID: 7351022906006453768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeWalk_23
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 62
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5392ebc9e83f900800000000000000
+      internalID: 717073569538454992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeWalk_24
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 0
+        width: 61
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda13f0da211b4d70800000000000000
+      internalID: 9028328753586182876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeWalk_25
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0
+        width: 57
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19c93449bfdb2e80800000000000000
+      internalID: -8202216309518644962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeWalk_26
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 0
+        width: 53
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dec6d05db624e950800000000000000
+      internalID: 6477344758612545235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeWalk_27
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 0
+        width: 48
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81627402a7c024ee0800000000000000
+      internalID: -1278445625552722408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestHimeWalk_28
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 0
+        width: 42
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82738054fddcb82a0800000000000000
+      internalID: -6734062458982877400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
